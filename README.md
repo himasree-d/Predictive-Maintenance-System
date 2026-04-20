@@ -115,11 +115,11 @@ This project addresses critical challenges in aircraft engine maintenance throug
 
 ## Team Contributors
 
-| Member Name               | Git Profile
-|---------------------------|-------------------------------|
-| **Himasree Dintakurthy**  | 
+| Member Name               | Github Profile
+|---------------------------|----------------------------------------------|
+| **Himasree Dintakurthy**  | [himasree-d](https://github.com/himasree-d)
 | **Yashika Gupta**         | 
 | **Harshitha Kolla**       | 
-| **Ishani Singh**          | 
+| **Ishani Singh**          | [I-S2506](https://github.com/I-S2506)
 | **Tanvi Ganesh Borkar**   | [t-an-droid](https://github.com/t-an-droid)
 
