@@ -36,11 +36,11 @@ This project addresses critical challenges in aircraft engine maintenance throug
   * Standardized sensor data using StandardScaler
 * **Clustering:**
   * Applied K-means (k=5) to define degradation stages:
-    * Cluster 0 â Stage 0 (Normal)
-    * Cluster 1 â Stage 1 (Slightly Degraded)
-    * Cluster 2 â Stage 2 (Moderately Degraded)
-    * Cluster 3 â Stage 3 (Critical)
-    * Cluster 4 â Stage 4 (Failure)
+    * Cluster 0 - Stage 0 (Normal)
+    * Cluster 1 - Stage 1 (Slightly Degraded)
+    * Cluster 2 - Stage 2 (Moderately Degraded)
+    * Cluster 3 - Stage 3 (Critical)
+    * Cluster 4 - Stage 4 (Failure)
 * **Visualization:**
   * PCA for dimensionality reduction (2 components)
   * Sensor trend analysis for key sensors (2, 4, 7, 11, 15)
