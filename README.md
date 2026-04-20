@@ -115,11 +115,11 @@ This project addresses critical challenges in aircraft engine maintenance throug
 
 ## Team Contributors
 
-| Member Name               | 
-|---------------------------|
-| **Himasree Dintakurthy**  |
+| Member Name               | Git Profile
+|---------------------------|-------------------------------|
+| **Himasree Dintakurthy**  | 
 | **Yashika Gupta**         | 
 | **Harshitha Kolla**       | 
 | **Ishani Singh**          | 
-| **Tanvi Ganesh Borkar**   | 
+| **Tanvi Ganesh Borkar**   | [t-an-droid](https://github.com/t-an-droid)
 
